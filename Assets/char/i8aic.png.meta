@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 47673eef75e176e4183047d076526467
+timeCreated: 1503927472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i8aic_0
+    21300002: i8aic_1
+    21300004: i8aic_2
+    21300006: i8aic_3
+    21300008: i8aic_4
+    21300010: i8aic_5
+    21300012: i8aic_6
+    21300014: i8aic_7
+    21300016: i8aic_8
+    21300018: i8aic_9
+    21300020: i8aic_10
+    21300022: i8aic_11
+    21300024: i8aic_12
+    21300026: i8aic_13
+    21300028: i8aic_14
+    21300030: i8aic_15
+    21300032: i8aic_16
+    21300034: i8aic_17
+    21300036: i8aic_18
+    21300038: i8aic_19
+    21300040: i8aic_20
+    21300042: i8aic_21
+    21300044: i8aic_22
+    21300046: i8aic_23
+    21300048: i8aic_24
+    21300050: i8aic_25
+    21300052: i8aic_26
+    21300054: i8aic_27
+    21300056: i8aic_28
+    21300058: i8aic_29
+    21300060: i8aic_30
+    21300062: i8aic_31
+    21300064: i8aic_32
+    21300066: i8aic_33
+    21300068: i8aic_34
+    21300070: i8aic_35
+    21300072: i8aic_36
+    21300074: i8aic_37
+    21300076: i8aic_38
+    21300078: i8aic_39
+    21300080: i8aic_40
+    21300082: i8aic_41
+    21300084: i8aic_42
+    21300086: i8aic_43
+    21300088: i8aic_44
+    21300090: i8aic_45
+    21300092: i8aic_46
+    21300094: i8aic_47
+    21300096: i8aic_48
+    21300098: i8aic_49
+    21300100: i8aic_50
+    21300102: i8aic_51
+    21300104: i8aic_52
+    21300106: i8aic_53
+    21300108: i8aic_54
+    21300110: i8aic_55
+    21300112: i8aic_56
+    21300114: i8aic_57
+    21300116: i8aic_58
+    21300118: i8aic_59
+    21300120: i8aic_60
+    21300122: i8aic_61
+    21300124: i8aic_62
+    21300126: i8aic_63
+    21300128: i8aic_64
+    21300130: i8aic_65
+    21300132: i8aic_66
+    21300134: i8aic_67
+    21300136: i8aic_68
+    21300138: i8aic_69
+    21300140: i8aic_70
+    21300142: i8aic_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i8aic_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 989
+        width: 39
+        height: 72
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 989
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 989
+        width: 38
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 989
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 988
+        width: 53
+        height: 76
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 988
+        width: 40
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 912
+        width: 48
+        height: 61
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 912
+        width: 47
+        height: 61
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 910
+        width: 47
+        height: 61
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 912
+        width: 45
+        height: 61
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 912
+        width: 46
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 912
+        width: 47
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 825
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 825
+        width: 35
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 821
+        width: 35
+        height: 73
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 828
+        width: 35
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 827
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 823
+        width: 35
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 825
+        width: 50
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 824
+        width: 38
+        height: 67
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 35
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 736
+        width: 34
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 735
+        width: 32
+        height: 42
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 735
+        width: 30
+        height: 32
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 734
+        width: 30
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 734
+        width: 30
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 734
+        width: 30
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 734
+        width: 30
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 647
+        width: 35
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 647
+        width: 58
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 646
+        width: 84
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 645
+        width: 113
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 643
+        width: 148
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 561
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 561
+        width: 55
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 560
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 560
+        width: 34
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 560
+        width: 53
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 468
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 468
+        width: 34
+        height: 56
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 470
+        width: 46
+        height: 58
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 470
+        width: 46
+        height: 58
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 472
+        width: 46
+        height: 58
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 471
+        width: 46
+        height: 58
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 472
+        width: 46
+        height: 58
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 347
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 347
+        width: 35
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 345
+        width: 45
+        height: 79
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 341
+        width: 45
+        height: 87
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 338
+        width: 46
+        height: 88
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 339
+        width: 44
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 344
+        width: 50
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 343
+        width: 38
+        height: 67
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 258
+        width: 32
+        height: 74
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 257
+        width: 63
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 257
+        width: 63
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 182
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 180
+        width: 32
+        height: 74
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 180
+        width: 55
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 39
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102
+        width: 35
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 35
+        height: 73
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 105
+        width: 35
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_64
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 104
+        width: 35
+        height: 68
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 100
+        width: 35
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 52
+        height: 82
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 49
+        height: 79
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 14
+        width: 48
+        height: 78
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 23
+        width: 61
+        height: 55
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 72
+        height: 55
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i8aic_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 22
+        width: 59
+        height: 55
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
